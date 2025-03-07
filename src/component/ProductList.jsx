@@ -107,7 +107,7 @@ function ProductList() {
                     </div>
                     <div className="card">
                         <div className="card-img">
-                            <a href=""><img src="c/img/不死川玄彌.png" alt="不死川玄彌" /></a>
+                            <a href=""><img src="/img/不死川玄彌.png" alt="不死川玄彌" /></a>
                         </div>
                         <div className="card-text">
                             <h2>不死川玄彌</h2>
