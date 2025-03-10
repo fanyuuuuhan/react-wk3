@@ -2,7 +2,7 @@ function Header() {
     return (
         <header>
         <div>
-            <img src="./public/img/AFA.png" alt="AFA-Logo" />
+            <img src="/img/AFA.png" alt="AFA-Logo" />
             <h2>AFA動漫網</h2>
         </div>
         
